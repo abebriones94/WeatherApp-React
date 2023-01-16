@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import axios from "axios";
+import axios from "axios"
+
 
 // Input box that takes in a value (location), that passes into the URL. This is done by using a state
 

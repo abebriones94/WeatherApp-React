@@ -30,7 +30,7 @@ h1 {
   height: 100vh;
   position: relative;
   background-color: rgba(0, 0, 0, 0.4);
-  color: rgb(250, 249, 247);
+  color: rgb(250, 249, 246);
 }
 
 .app:before {
